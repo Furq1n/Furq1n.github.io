@@ -5,14 +5,14 @@ index.html
 _config.yml
 .gitignore
 README.md
-css
+# css
   - main.css
-blog
+# blog
   - index.html
-about
+# about
   - index.html
-_posts
+# _posts
   - 2021-09-01-site-launched.md
-_layouts
+# _layouts
   - default.html
   - post.html
