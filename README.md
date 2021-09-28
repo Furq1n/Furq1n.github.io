@@ -1,10 +1,10 @@
 
 # Repository Structure
 
-index.html
-_config.yml
-.gitignore
-README.md
+# index.html
+# _config.yml
+# .gitignore
+# README.md
 # css
   - main.css
 # blog
